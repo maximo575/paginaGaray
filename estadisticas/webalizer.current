@@ -1,0 +1,3257 @@
+# Webalizer V2.21-02 Incremental Data - 10/21/2018 20:24:52
+2018 10 21 20 24 52
+4748 1634 722 97 72 269 120635411 1518 994 0
+33 13 78 1 21
+204 73 2556478 47 80 31
+201 62 1118750 55 55 45
+276 99 3008136 67 92 51
+199 55 2419890 49 78 42
+206 58 1179798 44 56 47
+154 43 1844511 44 35 32
+229 51 1777705 36 38 36
+169 42 740260 47 46 37
+249 89 2602323 60 77 55
+242 74 3462554 57 95 52
+207 78 1029702 55 79 60
+246 79 2633064 49 73 52
+212 80 2646814 45 64 32
+212 106 40353326 61 94 64
+245 83 2215437 50 70 48
+271 111 16182280 80 94 65
+282 94 25755781 73 77 60
+252 86 3889654 63 119 53
+153 51 1141142 54 46 41
+378 174 2591625 60 112 63
+161 46 1486181 33 38 28
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+128 48 1277814 38
+119 54 838156 52
+120 74 1985890 86
+74 26 1037581 24
+73 21 572366 21
+76 24 931568 22
+138 29 2321492 67
+176 34 3051816 60
+328 60 2747346 77
+243 58 1309872 42
+231 98 40168181 86
+242 89 1262148 91
+225 54 1825358 42
+365 85 1869463 65
+336 78 1874930 55
+173 74 1929554 67
+235 139 16103416 83
+239 71 1678389 60
+215 58 2337668 54
+191 92 2184465 85
+170 61 1216837 51
+218 122 3754284 130
+205 77 1800320 65
+228 108 26556497 95
+0
+0
+0
+1634
+0
+0
+0
+0
+0
+96
+0
+0
+2
+0
+53
+0
+0
+24
+0
+0
+0
+2939
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/paneldecontrol/images/ppal-mail.gif
+0 1 7599383935954676077 8575 0 0
+/paneldecontrol/images/edit_pencil.gif
+0 1 3275369751328587776 325 0 0
+/utnmetodologia.htm
+0 24 4049018639494414336 6735126 13 8
+/spn.htm
+0 21 7881702290525926198 33852 5 1
+/paneldecontrol/images/separador-cuentas.gif
+0 1 1667575412 853 0 0
+/
+0 293 3256445789431753826 1532278 217 95
+/esqgral.htm
+0 25 3472607589461537072 513720 11 5
+/paneldecontrol/images/btn-cuentas-mail_off.gif
+0 1 7017853302350962990 2091 0 0
+/paneldecontrol/images/fondo_web.gif
+0 1 3562910255203483648 925 0 0
+/extend1_files/image003.jpg
+0 3 29243568 28920 0 0
+/metafisica2000.htm
+0 33 0 4057344 21 9
+/md.htm
+0 30 0 44340 9 6
+/fluorens.doc
+0 11 0 250880 0 0
+/utn.htm
+0 23 0 23759 8 4
+/paneldecontrol/images/btn-cuentas-ftp-off.gif
+0 1 0 2015 0 0
+/paneldecontrol/images/btn_cambiar_on.png
+0 1 0 2641 0 0
+/ejs hip parcial.doc
+0 4 0 151552 0 0
+/Sep30681.jpg
+0 6 0 1040310 0 0
+/paneldecontrol/images/borde-der-menu.gif
+0 1 0 815 0 0
+/paneldecontrol/js/mootools.js
+0 1 0 66639 0 0
+/paneldecontrol/images/btn-config-on.gif
+0 1 0 638 0 0
+/segpar.htm
+0 16 0 2541705 8 4
+/ej explicacion.zip
+0 2 0 31510 0 0
+/neuroep.htm
+0 44 0 1712832 35 18
+/paneldecontrol/images/ppal-bd.gif
+0 1 0 8665 0 0
+/paneldecontrol/principal.php
+0 3 0 25878 0 0
+/paneldecontrol/images/fondo_tabla_der.gif
+0 1 0 919 0 0
+/etica y moral 2010 1.ppt
+0 12 0 4595712 0 0
+/parcpsico2009.htm
+0 2 0 288096 2 1
+/paneldecontrol/js/jsutilities.js
+0 1 0 35774 0 0
+/webmail/src/login.php
+0 148 0 700484 0 0
+/disc.htm
+0 200 0 3810125 181 47
+/infoco96.htm
+0 19 0 483664 9 2
+/paneldecontrol/images/btn-base-off.gif
+0 1 0 2562 0 0
+/LENG98.htm
+0 21 0 925160 9 8
+/paneldecontrol/images/btn-ppal-on.gif
+0 1 0 515 0 0
+/paneldecontrol/images/fondo_div_db.png
+0 1 24639496528147256 7413 0 0
+/joinv96.htm
+0 20 72057594037927936 489300 8 6
+/paneldecontrol/images/fondologin.png
+0 1 3342079273588633188 9113 0 0
+/wpe33963.jpg
+0 35 394283053825 1147755 0 0
+/laplat97.htm
+0 62 7566638 1042734 48 27
+/paneldecontrol/
+0 1 7362875462993655345 4316 1 0
+/extend1.htm
+0 23 3905237901464973614 1291600 12 6
+/paneldecontrol/images/btn_enviar.png
+0 1 125791781545326 2762 0 0
+/epistpsico.htm
+0 27 29160752 74034 12 4
+/paneldecontrol/images/titulos.gif
+0 1 0 121 0 0
+/paneldecontrol/images/separador_cuentas_tit.gif
+0 1 0 1135 0 0
+/paneldecontrol/images/btn-contrasenas-off.gif
+0 1 0 2131 0 0
+/paneldecontrol/images/fondo_tabla_centro.gif
+0 1 0 1794 0 0
+/paneldecontrol/images/btn-ppal-off.gif
+0 1 0 1953 0 0
+/paneldecontrol/base.php
+0 3 0 29049 0 0
+/paneldecontrol/images/btn-cuentas-mail-on.gif
+0 1 0 597 0 0
+/paneldecontrol/configuracion.php
+0 1 0 9393 0 0
+/paneldecontrol/images/pie2.gif
+0 1 0 5247 0 0
+/docs.htm
+0 34 0 153648 15 8
+/paneldecontrol/cuentas_ftp.php
+0 2 0 22358 0 0
+/crit.htm
+0 39 0 758076 29 17
+/Gno99.htm
+0 15 0 796222 7 2
+/paneldecontrol/images/btn-soporte-on.gif
+0 1 0 1845 0 0
+/extend1_files/image004.gif
+0 8 0 42736 0 0
+/paneldecontrol/images/pie1.gif
+0 1 0 396 0 0
+/espana95.htm
+0 21 0 638883 10 6
+/cdba96.htm
+0 27 0 451200 17 8
+/neuropsi.zip
+0 3 0 74727 0 0
+/paneldecontrol/images/borde-izq-menu.gif
+0 1 0 1314 0 0
+/modula02.htm
+0 28 0 929344 17 6
+/utn2003.htm
+0 18 0 2584306 10 4
+/phroni1.htm
+0 22 0 1226043 9 6
+/spnprog.htm
+0 19 0 534395 10 4
+/paneldecontrol/estilos.css
+0 1 0 8203 0 0
+/textos metodologia 2.zip
+0 2 0 36467378 0 0
+/extend1_files/image001.gif
+0 37 0 130906 0 0
+/neurofi.htm
+0 188 0 884976 159 73
+/paneldecontrol/images/btn-config-off.gif
+0 1 0 2306 0 0
+/cdba93.htm
+0 27 0 544131 11 8
+/links.htm
+0 37 0 209568 23 9
+/paneldecontrol/images/ppal-ftp.gif
+0 1 0 7001 0 0
+/Temas ensayo final.doc
+0 1 0 74752 0 0
+/reflex.htm
+0 28 0 36504 8 3
+/textos metodologia 1.zip
+0 2 0 26932640 0 0
+/paneldecontrol/images/btn_enviar_on.png
+0 1 0 2463 0 0
+/paneldecontrol/images/btn-contrasenas-on.gif
+0 1 0 627 0 0
+/Concepto de Represi√≥n en Neuropsicoan√°lisis1.zip
+0 1 0 13656 0 0
+/paneldecontrol/images/btn-soporte-off.gif
+0 1 0 2101 0 0
+/paneldecontrol/images/btn-cuentas-ftp-on.gif
+0 1 0 580 0 0
+/naturep.htm
+0 19 0 373179 8 4
+/paneldecontrol/images/logo.gif
+0 1 0 8370 0 0
+/utnactividad1.doc
+0 3 0 55296 0 0
+/paneldecontrol/images/btn-base-on.gif
+0 1 0 858 0 0
+/alcazar.zip
+0 3 0 1552608 0 0
+/paneldecontrol/images/cerrar_div.png
+0 1 0 1023 0 0
+/comprension.zip
+0 2 0 9390428 0 0
+/paneldecontrol/login.php
+0 1 0 4316 0 0
+/curri.htm
+0 39 0 958246 21 8
+/paneldecontrol/images/fondo_tabla_izq.gif
+0 1 0 1822 0 0
+/extend1_files/image005.jpg
+0 5 0 46245 0 0
+/paneldecontrol/images/fondologinabajo.png
+0 1 0 6128 0 0
+# End Of Table - urls
+# -sites- (monthly)
+dynamic-186-155-19-210.dynamic.etb.net.co
+0 2 1 20671 1 1539638119
+/disc.htm
+google-proxy-66-249-84-118.google.com
+0 1 1 20375 1 1539086720
+/disc.htm
+122.105.178.186.static.anycast.cnt-grms.ec
+0 2 1 20671 1 1540075601
+/disc.htm
+137.red.100.151.91.procono.es
+0 1 1 20375 1 1538967071
+/disc.htm
+crawl24.bl.semrush.com
+0 1 0 295 0 0
+-
+377.gra1.ovh.abcd.network
+0 1 1 5302 1 1539877578
+/
+r179-27-22-82.static.adinet.com.uy
+0 1 1 3538 0 0
+-
+47-62-196-34.red-acceso.airtel.net
+0 2 1 20671 1 1539708901
+/disc.htm
+dsl-187-208-122-23-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538436804
+/disc.htm
+200.red-83-41-236.dynamicip.rima-tde.net
+0 2 1 20671 1 1539698351
+/disc.htm
+46.229.168.129
+0 3 1 3332 1 1538919931
+/epistpsico.htm
+209.17.97.26
+0 1 1 5302 1 1539892217
+/
+p5dd10a14.dip0.t-ipconnect.de
+0 2 1 5963 1 1538439000
+/links.htm
+server.daigouvip.com
+0 4 4 21208 1 1539480048
+/
+46.229.168.130
+0 2 2 24376 2 1539159872
+/reflex.htm
+46.229.168.131
+0 8 3 48823 3 1539405543
+/crit.htm
+crawl-66-249-64-134.googlebot.com
+0 1 0 338 0 0
+-
+46.229.168.132
+0 3 1 5892 1 1538547762
+/
+46.229.168.133
+0 2 2 69882 2 1539342042
+/
+46.229.168.134
+0 5 4 61539 4 1539177958
+/modula02.htm
+46.229.168.135
+0 5 3 34166 3 1539357159
+/
+46.229.168.136
+0 7 4 282097 4 1538928950
+/docs.htm
+46.229.168.137
+0 1 0 295 0 0
+-
+46.229.168.138
+0 3 2 151552 2 1539466173
+/metafisica2000.htm
+46.229.168.139
+0 4 2 26939 2 1538929805
+/esqgral.htm
+194.224.153.107
+0 11 1 8056 1 1538397562
+/neurofi.htm
+msnbot-157-55-13-65.search.msn.com
+0 1 0 0 1 1539447876
+/docs.htm
+nat.aws.kontera.com
+0 1 1 20375 1 1538755818
+/disc.htm
+155.red-95-123-98.staticip.rima-tde.net
+0 1 1 3538 0 0
+-
+47.89.240.56
+0 1 1 5302 1 1540013926
+/
+148.222.127.102
+0 1 0 296 0 0
+-
+178.128.249.138
+0 2 1 5597 1 1539426362
+/
+180.67.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1540029058
+/neurofi.htm
+p3plcpnl0893.prod.phx3.secureserver.net
+0 4 0 1225 0 0
+-
+47.104.97.37
+0 7 0 2172 1 1539713981
+-
+46.229.168.140
+0 4 2 37327 2 1539607416
+/
+46.229.168.141
+0 2 1 21700 1 1539473082
+/esqgral.htm
+46.229.168.142
+0 5 3 42935 3 1539473531
+/docs.htm
+static-1-120-85-188.ipcom.comunitel.net
+0 2 1 20671 1 1539710644
+/disc.htm
+46.229.168.143
+0 7 5 40548 5 1539493561
+/links.htm
+46.229.168.144
+0 5 3 45327 3 1538712224
+/spn.htm
+46.229.168.145
+0 2 1 36039 1 1538815327
+/modula02.htm
+46.229.168.146
+0 1 0 295 0 0
+-
+46.229.168.147
+0 1 0 295 0 0
+-
+201.175.203.39
+0 2 1 20671 1 1538647371
+/disc.htm
+209.17.96.138
+0 1 0 318 1 1538708384
+/
+46.229.168.149
+0 2 2 41046 2 1538600986
+/modula02.htm
+msnbot-207-46-13-48.search.msn.com
+0 7 5 352933 4 1538784381
+/segpar.htm
+66.78.32.143
+0 1 1 5302 1 1538608243
+/
+msnbot-207-46-13-88.search.msn.com
+0 3 2 56119 2 1539084542
+/disc.htm
+crawl-66-249-64-58.googlebot.com
+0 16 9 661112 14 1540132090
+/utnmetodologia.htm
+crawl11.bl.semrush.com
+0 3 2 8339 2 1539948652
+/
+240.137.113.181.static.anycast.cnt-grms.ec
+0 2 1 20671 1 1539910001
+/disc.htm
+46.229.168.151
+0 1 0 295 0 0
+-
+static.88-198-43-207.clients.your-server.de
+0 2 2 30881 2 1539982359
+/links.htm
+149.red-83-45-114.dynamicip.rima-tde.net
+0 2 1 23268 1 1538754573
+/crit.htm
+46.229.168.152
+0 1 1 22972 1 1539528319
+/crit.htm
+google-proxy-66-102-8-152.google.com
+0 1 1 31435 1 1539108002
+/spnprog.htm
+209.17.96.146
+0 1 1 5302 1 1538513980
+/
+dsl-201-108-24-69.prod-dial.com.mx
+0 3 1 20967 1 1538616446
+/disc.htm
+msnbot-40-77-167-21.search.msn.com
+0 2 2 10286 1 1539974592
+/neurofi.htm
+ip31.ip-54-36-148.eu
+0 1 1 5302 1 1539277002
+/
+82.63.46.186.static.anycast.cnt-grms.ec
+0 3 1 5536 1 1538481306
+/neurofi.htm
+93-158-161-179.spider.yandex.com
+0 21 11 61296 11 1539769286
+/
+dynamic-ip-1868633192.cable.net.co
+0 2 1 5240 1 1539741477
+/neurofi.htm
+baiduspider-180-76-15-13.crawl.baidu.com
+0 1 0 299 0 0
+-
+17.red-79-157-255.dynamicip.rima-tde.net
+0 2 1 39224 1 1539710617
+/neuroep.htm
+crawl20.bl.semrush.com
+0 2 1 36039 1 1540152563
+/modula02.htm
+84.125.216.177.dyn.user.ono.com
+0 2 1 20671 1 1539962528
+/disc.htm
+msnbot-207-46-13-186.search.msn.com
+0 1 0 299 0 0
+-
+87.233.219.87.dynamic.jazztel.es
+0 2 1 20671 1 1539516961
+/disc.htm
+msnbot-207-46-13-26.search.msn.com
+0 1 0 0 1 1538998676
+/neurofi.htm
+crawl9.bl.semrush.com
+0 1 1 4656 1 1540052325
+/docs.htm
+54.38.255.116
+0 1 0 295 0 0
+-
+google-proxy-66-249-93-209.google.com
+0 5 2 41638 2 1539094083
+/disc.htm
+cable-costavision190-9-197-24.une.net.co
+0 2 1 5240 1 1540064924
+/neurofi.htm
+msnbot-207-46-13-216.search.msn.com
+0 5 4 97058 5 1539254780
+/laplat97.htm
+cablelink-189-218-29-244.hosts.intercable.net
+0 2 1 20671 1 1539114685
+/disc.htm
+msnbot-207-46-13-155.search.msn.com
+0 1 1 283271 1 1539787120
+/utnmetodologia.htm
+220.243.135.11
+0 2 2 7276 1 1539134931
+/links.htm
+209.17.97.74
+0 1 0 318 1 1539953880
+/
+msnbot-157-55-39-250.search.msn.com
+0 1 1 17094 1 1538594954
+/laplat97.htm
+114.85.116.91.unassigned.reverse-mundo-r.com
+0 25 2 17030 2 1539767383
+/neurofi.htm
+21-232-126-200.fibertel.com.ar
+0 2 1 39224 1 1539112609
+/neuroep.htm
+static-ip-186859131.cable.net.co
+0 4 3 43335 1 1539733640
+/
+111.231.190.181
+0 1 0 291 1 1538836716
+-
+204.12.207.114
+0 3 3 15906 1 1538525500
+/
+customer-187-237-231-96.uninet-ide.com.mx
+0 1 1 20375 1 1539780977
+/disc.htm
+r167-62-26-109.dialup.adsl.anteldata.net.uy
+0 4 3 43335 2 1539820786
+/
+209.17.97.82
+0 1 1 5302 1 1539269717
+/
+dsl-189-143-58-68-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538861674
+/disc.htm
+r179-27-6-2.static.adinet.com.uy
+0 2 1 5240 1 1539859962
+/neurofi.htm
+43-48-230-181.cab.prima.com.ar
+0 2 1 20671 1 1539203472
+/disc.htm
+220.243.135.25
+0 1 1 126792 1 1539511203
+/metafisica2000.htm
+ec2-54-93-194-5.eu-central-1.compute.amazonaws.com
+0 1 1 173385 0 0
+-
+163.47.20.93
+0 1 0 295 0 0
+-
+google-proxy-66-249-93-90.google.com
+0 1 1 4944 1 1539787353
+/neurofi.htm
+201.221.190.47
+0 3 1 5536 1 1539905857
+/neurofi.htm
+163.47.20.96
+0 1 0 295 0 0
+-
+google-proxy-64-233-172-154.google.com
+0 2 1 20671 1 1539948008
+/disc.htm
+36.red-81-44-224.dynamicip.rima-tde.net
+0 2 1 20671 1 1539620398
+/disc.htm
+163.47.20.99
+0 1 0 295 0 0
+-
+client.yota.ru
+0 3 1 296 1 1538389319
+/
+msnbot-207-46-13-6.search.msn.com
+0 1 1 2742 1 1539107756
+/epistpsico.htm
+201.217.247.229
+0 2 1 20671 1 1538751639
+/disc.htm
+unassigned.quadranet.com
+0 1 1 5302 1 1539969548
+/
+220.243.135.30
+0 1 1 5302 1 1539580003
+/
+159.red-79-155-114.dynamicip.rima-tde.net
+0 2 1 20671 1 1538902062
+/disc.htm
+fixed-187-189-213-155.totalplay.net
+0 2 1 20671 1 1539000855
+/disc.htm
+200.68.128.161
+0 1 1 20375 1 1539697527
+/disc.htm
+dsl-201-137-203-99-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539971812
+/disc.htm
+193.146.228.60
+0 1 1 3538 0 0
+-
+23.101.169.3
+0 8 8 163000 8 1540081974
+/disc.htm
+58.87.122.112
+0 2 0 605 1 1539890484
+-
+89.141.119.168.dyn.user.ono.com
+0 2 1 20671 1 1538582646
+/disc.htm
+google-proxy-66-249-85-17.google.com
+0 17 8 142902 7 1540052050
+/curri.htm
+183.60.83.110.broad.fz.fj.dynamic.163data.com.cn
+0 1 0 0 0 0
+-
+r167-62-72-8.dialup.adsl.anteldata.net.uy
+0 2 2 10604 1 1539564449
+/
+dsl-187-214-21-49-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539040754
+/disc.htm
+1.ru
+0 3 1 305 1 1539978227
+/disc.htm
+msnbot-207-46-13-22.search.msn.com
+0 2 2 66167 2 1539381176
+/modula02.htm
+crawl5.bl.semrush.com
+0 2 0 591 0 0
+-
+190.153.131.21
+0 1 1 3538 0 0
+-
+ip186.ip-54-36-148.eu
+0 1 1 1033 1 1539687269
+/utn.htm
+nat-service.aws.kontera.com
+0 1 1 20375 1 1539047338
+/disc.htm
+183.65.116.91.unassigned.reverse-mundo-r.com
+0 33 3 24168 1 1538745173
+/neurofi.htm
+86.110.118.172
+0 2 0 594 0 0
+-
+crawl-66-249-64-193.googlebot.com
+0 2 1 5601 1 1538794833
+/
+179.6.222.20
+0 1 1 3538 0 0
+-
+host-190-6-30-81.net-uno.net
+0 2 1 39224 1 1539715339
+/neuroep.htm
+88.red-176-83-85.dynamicip.rima-tde.net
+0 6 1 6500 1 1539505011
+/neurofi.htm
+178-17-174-14.static.as43289.net
+0 1 1 5302 1 1538496596
+/
+131.red-79-144-165.dynamicip.rima-tde.net
+0 1 1 3538 0 0
+-
+google-proxy-66-249-83-56.google.com
+0 7 3 55747 3 1539344322
+/laplat97.htm
+216.244.65.3
+0 2 0 656 0 0
+-
+216.244.65.4
+0 2 0 648 0 0
+-
+dsl-187-133-137-29-dyn.prod-infinitum.com.mx
+0 3 1 17692 1 1539920637
+/laplat97.htm
+195.22.22.22
+0 1 1 5302 1 1538899293
+/
+162.93.223.87.dynamic.jazztel.es
+0 2 1 20671 1 1538481413
+/disc.htm
+181.68.6.167
+0 2 1 39224 1 1538676022
+/neuroep.htm
+220.243.135.64
+0 2 2 4712308 1 1539511201
+/laplat97.htm
+census12.shodan.io
+0 1 1 5302 1 1539380183
+/
+msnbot-207-46-13-160.search.msn.com
+0 19 19 750207 11 1539580709
+/esqgral.htm
+191-231-246-190.fibertel.com.ar
+0 1 1 3538 0 0
+-
+220.243.136.204
+0 1 1 126792 1 1539706367
+/metafisica2000.htm
+msnbot-40-77-253-190.search.msn.com
+0 1 1 32793 0 0
+-
+220.243.136.205
+0 1 1 2742 1 1539134933
+/epistpsico.htm
+130.72.134.37.dynamic.jazztel.es
+0 2 1 20671 1 1539872690
+/disc.htm
+201-212-238-151.net.prima.net.ar
+0 2 1 20671 1 1538596163
+/disc.htm
+dit-200-13-101-116.uia.mx
+0 2 1 127088 1 1539195369
+/metafisica2000.htm
+220.243.135.74
+0 1 1 1033 1 1539134931
+/utn.htm
+tdev232-189.codetel.net.do
+0 2 1 20671 1 1540116465
+/disc.htm
+220.243.135.76
+0 1 1 25217 1 1539134935
+/curri.htm
+msnbot-40-77-167-19.search.msn.com
+0 1 1 35840 0 0
+-
+msnbot-40-77-167-112.search.msn.com
+0 3 3 109610 2 1539561431
+/LENG98.htm
+220.243.135.78
+0 3 2 89113 1 1539706366
+/phroni1.htm
+msnbot-40-77-167-59.search.msn.com
+0 2 2 113746 2 1538849477
+/Gno99.htm
+46.101.80.192
+0 6 6 46825 1 1539223344
+/reflex.htm
+185.165.249.221
+0 4 1 21263 1 1538485279
+/disc.htm
+msnbot-157-55-39-15.search.msn.com
+0 6 0 1774 0 0
+-
+202.137.134.183
+0 1 0 290 1 1538654208
+-
+220.243.136.214
+0 1 1 35744 1 1539511203
+/modula02.htm
+crawl18.bl.semrush.com
+0 2 0 590 0 0
+-
+163-172-4-153.rev.poneytelecom.eu
+0 2 2 10604 2 1539994722
+/
+r167-62-253-83.dialup.adsl.anteldata.net.uy
+0 3 2 38391 1 1539127730
+/
+220.243.135.88
+0 1 1 13466320 0 0
+-
+123.118.14.232
+0 1 1 9249 0 0
+-
+128.77.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1539525980
+/neurofi.htm
+msnbot-157-55-39-24.search.msn.com
+0 1 0 295 0 0
+-
+ec2-18-197-108-131.eu-central-1.compute.amazonaws.com
+0 1 1 1478 1 1539205192
+/md.htm
+128-241-171-181.fibertel.com.ar
+0 1 1 3538 0 0
+-
+164.75.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1539849806
+/neurofi.htm
+crawl1.bl.semrush.com
+0 3 3 13346 3 1540042828
+/epistpsico.htm
+61-78-17-190.fibertel.com.ar
+0 1 1 4944 1 1539966602
+/neurofi.htm
+msnbot-157-55-39-208.search.msn.com
+0 1 1 35744 1 1539809372
+/modula02.htm
+93-158-166-5.spider.yandex.com
+0 1 1 17094 1 1539151944
+/laplat97.htm
+179-38-246-194.speedy.com.ar
+0 5 4 236993 1 1539122977
+/
+cliente-200.218.60.179.wninternet.com
+0 2 1 20671 1 1538591049
+/disc.htm
+static-ip-18156229238.cable.net.co
+0 2 1 5240 1 1539724723
+/neurofi.htm
+216.74.125.231
+0 1 1 5302 1 1539974518
+/
+dsl-187-154-187-237-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1540064623
+/disc.htm
+msnbot-157-55-39-73.search.msn.com
+0 2 2 178687 1 1538359119
+/
+64-113-231-181.cab.prima.com.ar
+0 2 1 25513 1 1539702810
+/curri.htm
+host163-10-31-245.psico.unlp.edu.ar
+0 11 1 7885 0 0
+-
+220.243.135.200
+0 1 1 4656 1 1539134931
+/docs.htm
+220.243.135.204
+0 4 3 605427 1 1539706366
+/extend1.htm
+157.red-176-83-92.dynamicip.rima-tde.net
+0 6 1 6500 1 1539778762
+/neurofi.htm
+220.243.135.206
+0 1 1 37888 0 0
+-
+adsl-201-185-67-250.une.net.co
+0 2 1 5240 1 1539716647
+/neurofi.htm
+spider-5.lipperhey.com
+0 15 12 65551 1 1539602286
+/
+92.red-176-83-6.dynamicip.rima-tde.net
+0 6 1 6500 1 1538398689
+/neurofi.htm
+39.108.184.180
+0 1 0 312 1 1539717778
+-
+76-83-191-190.cab.prima.net.ar
+0 33 3 23655 0 0
+-
+37-115-189-131.broadband.kyivstar.net
+0 1 0 296 0 0
+-
+71.red-88-7-159.staticip.rima-tde.net
+0 44 4 32224 2 1539060295
+/neurofi.htm
+adsl-43-229.tricom.net
+0 2 1 20671 1 1540054246
+/disc.htm
+msnbot-40-77-167-15.search.msn.com
+0 1 1 152018 1 1540117354
+/utn2003.htm
+220.243.136.253
+0 3 2 54091 2 1539706367
+/modula02.htm
+google-proxy-66-249-88-32.google.com
+0 15 7 78582 5 1539812552
+/laplat97.htm
+baiduspider-180-76-15-145.crawl.baidu.com
+0 1 1 2742 1 1538436167
+/epistpsico.htm
+220.243.135.214
+0 3 3 319179 1 1539511202
+/utnmetodologia.htm
+220.243.135.216
+0 1 1 5302 1 1540114825
+/
+msnbot-157-55-39-51.search.msn.com
+0 2 2 22704 2 1539090306
+/cdba96.htm
+crawl14.bl.semrush.com
+0 3 2 132751 2 1540068485
+/links.htm
+120.55.61.200
+0 2 0 605 1 1539917529
+-
+msnbot-157-55-39-7.search.msn.com
+0 1 0 299 0 0
+-
+190.183.144.108
+0 2 1 20671 1 1538591433
+/disc.htm
+146.red-81-37-196.dynamicip.rima-tde.net
+0 66 6 48336 5 1539517275
+/neurofi.htm
+msnbot-40-77-167-64.search.msn.com
+0 4 1 21260 1 1539622845
+/disc.htm
+122.78.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1538490671
+/neurofi.htm
+139.219.14.38
+0 1 1 5302 1 1538614565
+/
+ec2-18-184-112-40.eu-central-1.compute.amazonaws.com
+0 2 1 1328 1 1538906807
+/utn.htm
+msnbot-157-55-39-204.search.msn.com
+0 1 1 9249 0 0
+-
+google-proxy-66-102-7-212.google.com
+0 1 1 20375 1 1539561310
+/disc.htm
+msnbot-157-55-39-244.search.msn.com
+0 2 2 43265 1 1539875938
+/curri.htm
+144.170.113.181.static.anycast.cnt-grms.ec
+0 2 1 127088 1 1538932098
+/metafisica2000.htm
+idc.ly.ha
+0 1 1 5302 1 1538576611
+/
+dsl-189-162-150-80-dyn.prod-infinitum.com.mx
+0 3 1 17692 1 1539814488
+/laplat97.htm
+crawl16.lp.007ac9.net
+0 33 32 1322288 1 1539152011
+/utn2003.htm
+msnbot-157-55-39-183.search.msn.com
+0 1 1 58383 1 1539744557
+/phroni1.htm
+220.243.135.232
+0 1 1 24909 0 0
+-
+220.243.135.234
+0 2 2 60333 1 1539511202
+/esqgral.htm
+ip12.ip-54-36-148.eu
+0 1 1 25456 1 1538917457
+/infoco96.htm
+bglinks1.plesk.do
+0 6 6 31812 1 1538645346
+/
+200.23.223.206
+0 2 1 20671 1 1538735248
+/disc.htm
+69.171.251.10
+0 1 1 32793 0 0
+-
+google-proxy-66-102-6-22.google.com
+0 1 1 20375 1 1538390030
+/disc.htm
+095160159182.dynamic-ra-12.vectranet.pl
+0 1 1 3538 0 0
+-
+186-59-112-13.speedy.com.ar
+0 2 2 7076 0 0
+-
+69.171.251.17
+0 3 2 38391 1 1539367645
+/
+static.83.94.46.78.clients.your-server.de
+0 1 1 144048 1 1540059438
+/parcpsico2009.htm
+dsl-189-187-150-169-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539054091
+/disc.htm
+dynamic-186-28-74-160.dynamic.etb.net.co
+0 4 1 21263 1 1539106564
+/disc.htm
+infong1059.kundenserver.de
+0 2 0 642 0 0
+-
+139.red-2-141-35.dynamicip.rima-tde.net
+0 2 1 17396 1 1539785102
+/laplat97.htm
+67.80.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1539759551
+/neurofi.htm
+crawl-66-249-64-214.googlebot.com
+0 12 3 71797 5 1539422757
+/disc.htm
+193.106.30.98
+0 24 2 6949 3 1539283898
+-
+host186.181-9-163.telecom.net.ar
+0 2 1 20449 1 1539278479
+/cdba93.htm
+google-proxy-66-102-6-91.google.com
+0 7 3 74727 2 1539036809
+/disc.htm
+ec2-54-193-39-131.us-west-1.compute.amazonaws.com
+0 1 1 5302 1 1538791562
+/
+220.243.135.253
+0 1 1 25456 1 1539511201
+/infoco96.htm
+222.124.12.246
+0 1 1 5302 1 1539834587
+/
+msnbot-40-77-188-85.search.msn.com
+0 1 1 32793 0 0
+-
+ip253.ip-54-36-148.eu
+0 1 1 19641 1 1539876195
+/naturep.htm
+google-proxy-66-249-81-214.google.com
+0 2 1 20671 1 1539036325
+/disc.htm
+baiduspider-180-76-15-16.crawl.baidu.com
+0 1 1 2742 1 1538774486
+/epistpsico.htm
+crawl-66-249-70-22.googlebot.com
+0 1 1 5302 1 1539014751
+/
+crawl10.bl.semrush.com
+0 1 1 21405 1 1540052350
+/esqgral.htm
+ip138.ip-54-36-148.eu
+0 1 1 20153 1 1539712471
+/cdba93.htm
+admin.leadcreator.eu
+0 2 2 30519 1 1539260751
+/curri.htm
+dsl-187-209-8-101-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539646265
+/disc.htm
+190.145.244.204
+0 3 2 38391 1 1539186582
+/
+static.234.98.9.5.clients.your-server.de
+0 2 1 5597 1 1538437087
+/
+23.106.201.76
+0 1 1 38928 1 1539930899
+/neuroep.htm
+131.80.116.91.unassigned.reverse-mundo-r.com
+0 11 1 8056 1 1538672285
+/neurofi.htm
+dsl-emcali-186.27.159.130.emcali.net.co
+0 1 1 3538 0 0
+-
+159.65.47.158
+0 1 1 5302 1 1538524674
+/
+msnbot-207-46-13-56.search.msn.com
+0 6 5 431278 3 1539854408
+/reflex.htm
+dsl-201-114-146-102-dyn.prod-infinitum.com.mx
+0 1 0 296 0 0
+-
+baiduspider-180-76-15-27.crawl.baidu.com
+0 1 1 5302 1 1539237504
+/
+128.199.128.104
+0 7 7 37114 2 1539529620
+/
+ec2-54-219-46-116.us-west-1.compute.amazonaws.com
+0 2 1 5601 1 1538666690
+/
+rtr-6-65.interkar.pl
+0 1 1 3538 0 0
+-
+190.145.245.251
+0 2 1 20671 1 1539380216
+/disc.htm
+193.169.252.144
+0 2 0 594 0 0
+-
+193.169.252.149
+0 4 3 16208 1 1538707590
+/
+219-217-29-181.fibertel.com.ar
+0 4 3 43335 1 1539703768
+/
+host67.181-110-17.telecom.net.ar
+0 4 1 5832 1 1540148957
+/neurofi.htm
+google-proxy-66-249-88-88.google.com
+0 7 4 36453 4 1538838934
+/neurofi.htm
+crawl8.bl.semrush.com
+0 1 0 295 0 0
+-
+18-154.customer.enredes.com.ar
+0 1 0 308 1 1538626317
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 1 2742 1 1538560423
+/epistpsico.htm
+31-4-193-76.red-acceso.airtel.net
+0 1 0 296 0 0
+-
+customer-joju-213-155.megared.net.mx
+0 2 1 5240 1 1539202505
+/neurofi.htm
+95-37-103-116.dynamic.mts-nn.ru
+0 19 1 11480 1 1538428013
+-
+201.175.134.57
+0 2 1 20671 1 1539707449
+/disc.htm
+207.89.22.102
+0 7 0 2115 0 0
+-
+220.243.135.3
+0 3 3 4744697 1 1539819909
+/spnprog.htm
+67.red-88-6-251.staticip.rima-tde.net
+0 2 1 20671 1 1539099267
+/disc.htm
+google-proxy-66-249-88-63.google.com
+0 16 6 109620 6 1539766842
+/neurofi.htm
+89.131.236.74
+0 7 6 96183 1 1539528402
+/extend1.htm
+no.rdns.ukservers.com
+0 2 0 590 0 0
+-
+39.105.52.127
+0 1 0 312 1 1539735464
+-
+crawl-66-249-64-150.googlebot.com
+0 2 1 5597 1 1539152755
+/
+dynamic-201-245-242-16.dynamic.etb.net.co
+0 2 1 5240 1 1539728169
+/neurofi.htm
+crawl00.exabot.com
+0 25 17 542092 16 1539804783
+/
+msnbot-207-46-13-123.search.msn.com
+0 1 1 18048 1 1538415804
+/cdba96.htm
+176.74.192.88
+0 2 2 38095 1 1540025265
+/
+security.lightspeedsystems.com
+0 9 9 104530 1 1540076575
+/Gno99.htm
+121.40.178.194
+0 7 7 37114 1 1539707487
+/
+usfkl1-01fwb01-v450.mmc.com
+0 3 1 20967 1 1539094484
+/disc.htm
+msnbot-207-46-13-83.search.msn.com
+0 2 2 41504 1 1539726812
+/links.htm
+dsl-187-220-247-80-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538684106
+/disc.htm
+msnbot-40-77-167-216.search.msn.com
+0 1 1 5302 1 1538491681
+/
+173.252.127.13
+0 1 0 313 0 0
+-
+173.252.127.17
+0 1 0 313 0 0
+-
+msnbot-207-46-13-12.search.msn.com
+0 2 2 24943 1 1539043593
+/esqgral.htm
+173.252.127.19
+0 1 0 313 0 0
+-
+119.red-37-158-28.dynamicip.rima-tde.net
+0 2 1 20671 1 1538651727
+/disc.htm
+dsl-189-129-105-193-dyn.prod-infinitum.com.mx
+0 5 1 20671 1 1538608593
+/disc.htm
+173.252.127.21
+0 1 0 295 0 0
+-
+39.104.158.86
+0 1 0 327 1 1539914646
+-
+173.252.127.23
+0 2 0 626 0 0
+-
+179.50.10.243
+0 1 1 3538 0 0
+-
+msnbot-207-46-13-181.search.msn.com
+0 1 1 30423 1 1539096374
+/espana95.htm
+47.105.50.212
+0 4 0 1216 0 0
+-
+host199.181-13-76.telecom.net.ar
+0 1 1 4944 1 1539885686
+/neurofi.htm
+crawl-66-249-64-1.googlebot.com
+0 3 1 5904 1 1539295183
+/
+177.red-81-32-5.dynamicip.rima-tde.net
+0 121 11 88616 11 1538962422
+/neurofi.htm
+msnbot-40-77-167-133.search.msn.com
+0 3 1 20969 1 1539134410
+/disc.htm
+dynamic-186-155-16-30.dynamic.etb.net.co
+0 2 1 5240 1 1539988547
+/neurofi.htm
+189.215.235.119.cable.dyn.cableonline.com.mx
+0 2 1 20671 1 1539042821
+/disc.htm
+msnbot-157-55-39-76.search.msn.com
+0 3 2 30161 3 1538603739
+/neurofi.htm
+100.120.217.87.dynamic.jazztel.es
+0 2 1 20671 1 1539609760
+/disc.htm
+msnbot-207-46-13-30.search.msn.com
+0 1 1 4656 1 1539689465
+/docs.htm
+187-177-43-52.dynamic.axtel.net
+0 2 1 5240 1 1540141943
+/neurofi.htm
+117.114.228.38
+0 2 0 605 1 1539856807
+-
+cpe-190-55-155-138.telecentro-reversos.com.ar
+0 7 5 53519 2 1539875158
+/neurofi.htm
+rate-limited-proxy-66-249-89-198.google.com
+0 1 1 5302 1 1539453456
+/
+static-ip-18614652222.cable.net.co
+0 2 1 5240 1 1539717580
+/neurofi.htm
+msnbot-157-55-39-199.search.msn.com
+0 1 0 0 1 1539759062
+/spnprog.htm
+msnbot-207-46-13-220.search.msn.com
+0 3 3 109610 2 1538746190
+/LENG98.htm
+static.77.50.251.148.clients.your-server.de
+0 1 1 5664 1 1540017278
+/links.htm
+dsl-189-250-255-35-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539274162
+/disc.htm
+crawl-66-249-64-218.googlebot.com
+0 19 8 695401 10 1539438669
+/laplat97.htm
+118.24.72.96
+0 2 0 605 1 1539865942
+-
+msnbot-40-77-167-182.search.msn.com
+0 1 0 295 0 0
+-
+201-234-138-166.static.impsat.net.ar
+0 2 1 23268 1 1538766622
+/crit.htm
+ec2-18-185-59-121.eu-central-1.compute.amazonaws.com
+0 1 1 4944 1 1538700183
+/neurofi.htm
+211.84.116.91.unassigned.reverse-mundo-r.com
+0 22 2 16112 2 1539705041
+/neurofi.htm
+11.141.197.104.bc.googleusercontent.com
+0 1 0 318 1 1539287878
+/
+ba-res-179-12-97-129.tigoune.com.co
+0 3 1 20967 1 1539358972
+/disc.htm
+wiener.research.scrape.email.research.at.aegis.network
+0 1 0 294 0 0
+-
+c-p140-u1995-06.webazilla.com
+0 1 1 0 0 0
+-
+google-proxy-66-249-84-120.google.com
+0 1 0 296 0 0
+-
+crawl-66-249-70-26.googlebot.com
+0 2 1 64580 1 1539018832
+/extend1.htm
+dsl-187-211-122-13-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538442718
+/disc.htm
+190.237.178.146
+0 2 1 5240 1 1538694873
+/neurofi.htm
+210.211.96.112
+0 4 0 1225 0 0
+-
+msnbot-40-77-167-151.search.msn.com
+0 4 1 20969 2 1540151094
+/disc.htm
+google-proxy-64-233-172-156.google.com
+0 3 1 20967 1 1539288623
+/disc.htm
+112.74.200.156
+0 2 0 605 1 1539885799
+-
+crawl17.bl.semrush.com
+0 1 0 295 0 0
+-
+ec2-34-207-98-73.compute-1.amazonaws.com
+0 2 1 17389 1 1539366044
+/laplat97.htm
+plagscan.com
+0 2 2 64580 1 1538591306
+/extend1.htm
+msnbot-157-55-39-177.search.msn.com
+0 13 12 731261 9 1538751299
+/neuroep.htm
+39.1.117.91.dynamic.reverse-mundo-r.com
+0 110 10 80560 10 1540019679
+/neurofi.htm
+r167-62-18-213.dialup.adsl.anteldata.net.uy
+0 2 2 38095 1 1538436652
+/
+msnbot-40-77-167-120.search.msn.com
+0 1 1 5664 1 1538998332
+/links.htm
+29-207-31-181.fibertel.com.ar
+0 2 1 20671 1 1539133141
+/disc.htm
+crawl26.bl.semrush.com
+0 2 1 5597 1 1539770996
+/
+static.10.38.76.144.clients.your-server.de
+0 2 1 5601 1 1539391241
+/
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 9 9 47718 9 1540094282
+/
+msnbot-40-77-167-8.search.msn.com
+0 5 2 71783 4 1539300473
+/modula02.htm
+static.belong.com.au
+0 1 1 5302 1 1538429557
+/
+google-proxy-66-249-85-19.google.com
+0 17 8 329988 7 1540052060
+/links.htm
+209.17.96.210
+0 1 0 318 1 1538469799
+/
+209.17.96.34
+0 1 1 5302 1 1539663566
+/
+baiduspider-180-76-15-137.crawl.baidu.com
+0 3 1 5900 1 1539405315
+/
+2.153.66.136.dyn.user.ono.com
+0 2 1 20671 1 1539506243
+/disc.htm
+181.215.49.121
+0 7 0 2226 1 1539515225
+-
+crawl-66-249-64-56.googlebot.com
+0 18 9 655004 13 1540060808
+/curri.htm
+dsl-189-159-225-144-dyn.prod-infinitum.com.mx
+0 1 1 4944 1 1538356750
+/neurofi.htm
+google-proxy-66-102-7-208.google.com
+0 1 0 296 0 0
+-
+crawl-66-249-64-154.googlebot.com
+0 2 1 283566 1 1539145437
+/utnmetodologia.htm
+msnbot-157-55-39-155.search.msn.com
+0 3 3 69711 3 1538684967
+/links.htm
+google-proxy-66-249-83-58.google.com
+0 7 4 72545 4 1540031587
+/laplat97.htm
+173.252.95.18
+0 1 0 302 0 0
+-
+177.2.149.190.dynamic.intelnet.net.gt
+0 2 1 5240 1 1538784197
+/neurofi.htm
+dsl-187-148-143-127-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538664335
+/disc.htm
+ns546279.ip-158-69-251.net
+0 13 12 509270 1 1539127366
+/utn2003.htm
+112.169.106.71
+0 2 0 605 1 1539861975
+-
+229.red-88-9-62.dynamicip.rima-tde.net
+0 22 2 16112 2 1538842309
+/neurofi.htm
+dsl-189-143-10-48-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538835556
+/disc.htm
+msnbot-40-77-167-54.search.msn.com
+0 5 5 481695 4 1540105697
+/crit.htm
+209.17.96.58
+0 1 0 318 1 1539344017
+/
+201.red-176-83-176.dynamicip.rima-tde.net
+0 6 1 6500 1 1539609538
+/neurofi.htm
+msnbot-157-55-39-50.search.msn.com
+0 1 0 0 1 1539025904
+/extend1.htm
+crawl13.bl.semrush.com
+0 3 2 64679 2 1540120739
+/infoco96.htm
+dynamic-ip-18153012136.cable.net.co
+0 2 1 20671 1 1539819117
+/disc.htm
+google-proxy-66-249-93-211.google.com
+0 7 3 46878 3 1539254366
+/disc.htm
+ec2-54-81-171-34.compute-1.amazonaws.com
+0 12 10 54642 2 1539285116
+/
+msnbot-157-55-39-6.search.msn.com
+0 5 0 1483 0 0
+-
+r-14-56-62-5.consumer-pool.prcdn.net
+0 7 1 7065 1 1539505650
+-
+pool-173-48-195-232.bstnma.fios.verizon.net
+0 8 2 255420 1 1538597390
+/metafisica2000.htm
+124.90.43.58
+0 2 0 605 1 1539843586
+-
+dsl-189-129-71-207-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539036255
+/disc.htm
+173.252.127.1
+0 1 0 313 0 0
+-
+msnbot-207-46-13-19.search.msn.com
+0 2 2 22704 2 1539851477
+/docs.htm
+209.17.96.66
+0 1 0 318 1 1539617760
+/
+cable200-116-24-249.epm.net.co
+0 1 1 3538 0 0
+-
+237.149.16.95.dynamic.jazztel.es
+0 2 1 20671 1 1539101622
+/disc.htm
+msnbot-40-77-167-63.search.msn.com
+0 1 1 283271 1 1539617569
+/utnmetodologia.htm
+ip111.ip-54-36-148.eu
+0 1 1 1612 1 1539230969
+/spn.htm
+crawl22.bl.semrush.com
+0 4 1 127678 1 1540046698
+/metafisica2000.htm
+cloud2920617.nitrado.cloud
+0 2 0 635 0 0
+-
+msnbot-207-46-13-148.search.msn.com
+0 1 1 5664 1 1539779834
+/links.htm
+143.red-80-29-20.staticip.rima-tde.net
+0 2 1 20671 1 1539264085
+/disc.htm
+crawl-66-249-64-5.googlebot.com
+0 3 1 75350 0 0
+-
+crawl06.lp.007ac9.net
+0 33 32 1322284 1 1539851137
+/utn2003.htm
+209.17.96.74
+0 1 1 5302 1 1538690166
+/
+dsl-187-144-153-242-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538660551
+/disc.htm
+185.220.101.12
+0 1 1 5302 1 1540054344
+/
+185.220.101.13
+0 1 1 5302 1 1539251494
+/
+corporativo.static.gvt.net.br
+0 1 0 297 0 0
+-
+static.132.145.9.5.clients.your-server.de
+0 1 1 25217 1 1539860776
+/curri.htm
+86.110.117.53
+0 1 0 310 0 0
+-
+customer-187-157-141-178-sta.uninet-ide.com.mx
+0 5 2 41638 2 1539358180
+/disc.htm
+client-200.121.203.154.speedy.net.pe
+0 2 1 20671 1 1540046842
+/disc.htm
+crawl-66-249-64-198.googlebot.com
+0 2 0 602 0 0
+-
+msnbot-207-46-13-157.search.msn.com
+0 1 0 0 1 1539752914
+/phroni1.htm
+209.17.96.82
+0 1 0 318 1 1539039692
+/
+crawl17.lp.007ac9.net
+0 33 32 1322284 1 1538638026
+/utn2003.htm
+170.239.165.22
+0 4 2 41342 2 1539431191
+/disc.htm
+185.220.101.21
+0 1 1 5302 1 1539969550
+/
+msnbot-157-55-39-191.search.msn.com
+0 2 2 443248 1 1540104121
+/infoco96.htm
+dsl-189-169-25-156-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539618902
+/disc.htm
+156.red-83-52-15.dynamicip.rima-tde.net
+0 1 1 3538 0 0
+-
+dynamic-ip-18153011628.cable.net.co
+0 2 1 20671 1 1539897937
+/disc.htm
+static-ip-18681157196.cable.net.co
+0 4 1 21263 1 1539730965
+/disc.htm
+dsl-187-143-108-167-dyn.prod-infinitum.com.mx
+0 3 1 20967 1 1539269135
+/disc.htm
+ip37.ip-54-36-148.eu
+0 1 1 20375 1 1538367663
+/disc.htm
+186-141-198.9.wireless.movistar.net.ar
+0 1 1 4733 0 0
+-
+scz-181-114-103-00212.tigo.bo
+0 1 1 3538 0 0
+-
+dsl-201-124-188-82-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539817316
+/disc.htm
+baiduspider-180-76-15-19.crawl.baidu.com
+0 1 1 1404 1 1538506921
+/reflex.htm
+dsl-187-222-36-45-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539301700
+/disc.htm
+5.188.210.39
+0 1 1 20153 1 1538975552
+/cdba93.htm
+fixed-189-203-150-240.totalplay.net
+0 2 1 39224 1 1538680730
+/neuroep.htm
+47.106.103.20
+0 2 0 605 1 1539863891
+-
+cpe-186-23-39-15.telecentro-reversos.com.ar
+0 2 1 19937 1 1539900592
+/naturep.htm
+msnbot-207-46-13-86.search.msn.com
+0 13 11 572144 9 1539560828
+/metafisica2000.htm
+ec2-18-185-37-192.eu-central-1.compute.amazonaws.com
+0 1 1 5302 1 1538897185
+/
+dsl-189-130-212-216-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538787925
+/disc.htm
+msnbot-40-77-167-90.search.msn.com
+0 1 0 0 1 1539125166
+/cdba96.htm
+165.red-2-141-62.dynamicip.rima-tde.net
+0 3 1 20967 1 1538665565
+/disc.htm
+ip148.ip-54-36-148.eu
+0 1 1 18048 1 1539219846
+/cdba96.htm
+msnbot-40-77-167-118.search.msn.com
+0 2 2 129160 2 1539371171
+/extend1.htm
+host45.181-93-14.telecom.net.ar
+0 2 1 20671 1 1538701720
+/disc.htm
+google-proxy-66-249-88-34.google.com
+0 13 8 92913 8 1540132975
+/laplat97.htm
+msnbot-207-46-13-55.search.msn.com
+0 1 1 25217 1 1539289364
+/curri.htm
+181.174.101.56
+0 1 1 20375 1 1539186175
+/disc.htm
+ip24.ip-54-36-149.eu
+0 1 1 17094 1 1539561678
+/laplat97.htm
+customer-187-237-231-50.uninet-ide.com.mx
+0 1 1 20375 1 1539531354
+/disc.htm
+dsl-187-148-35-93-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1539565042
+/disc.htm
+1360030659.d-dsl.at
+0 1 1 283271 1 1539386574
+/utnmetodologia.htm
+host5.181-13-208.telecom.net.ar
+0 1 1 3538 0 0
+-
+62-210-83-78.rev.poneytelecom.eu
+0 1 1 5302 1 1538732566
+/
+185-89-139-186.fibertel.com.ar
+0 2 1 5240 1 1539956325
+/neurofi.htm
+host186.190-230-231.telecom.net.ar
+0 2 1 20671 1 1539249266
+/disc.htm
+ip162.ip-54-36-148.eu
+0 1 1 126792 1 1538976981
+/metafisica2000.htm
+48stb45.codetel.net.do
+0 3 2 41046 2 1539896031
+/disc.htm
+214.red-83-41-1.dynamicip.rima-tde.net
+0 2 1 20671 1 1540122487
+/disc.htm
+srv61.dedic.sh
+0 7 0 2147 1 1538588268
+-
+179-40-66-27.mrse.com.ar
+0 2 1 152314 1 1538436857
+/utn2003.htm
+221-3-171-152.fibertel.com.ar
+0 1 1 3538 0 0
+-
+ec2-54-80-105-223.compute-1.amazonaws.com
+0 9 7 840551 4 1539335982
+/LENG98.htm
+static.55.174.46.78.clients.your-server.de
+0 33 32 1343414 1 1538429654
+/utn2003.htm
+78.red-176-83-24.dynamicip.rima-tde.net
+0 2 1 20671 1 1538745157
+/disc.htm
+static.111.168.76.144.clients.your-server.de
+0 1 1 25217 1 1539860749
+/curri.htm
+google-proxy-66-102-6-24.google.com
+0 1 0 296 0 0
+-
+ip9.ip-54-36-149.eu
+0 1 1 5302 1 1538593959
+/
+63.70.116.91.unassigned.reverse-mundo-r.com
+0 22 2 16112 1 1538587988
+/neurofi.htm
+msnbot-40-77-167-145.search.msn.com
+0 7 6 81485 5 1540125142
+/Gno99.htm
+219.240.46.242
+0 2 0 605 1 1539802680
+-
+220.243.136.15
+0 2 2 13490785 1 1539706366
+/joinv96.htm
+m226.themothership.net
+0 3 0 972 0 0
+-
+ip80.ip-54-36-148.eu
+0 1 1 126792 1 1540030808
+/metafisica2000.htm
+nat253.econo.unlp.edu.ar
+0 22 2 15770 0 0
+-
+154.red-95-122-79.staticip.rima-tde.net
+0 44 4 32224 4 1540024180
+/neurofi.htm
+pc-199-82-161-190.cm.vtr.net
+0 1 1 3538 0 0
+-
+45-218-137-186.fibertel.com.ar
+0 2 1 5240 1 1538690004
+/neurofi.htm
+ip188.ip-54-36-148.eu
+0 1 1 30423 1 1539166146
+/espana95.htm
+fauquier.dreamhost.com
+0 2 0 641 0 0
+-
+ip1.ip-54-36-150.eu
+0 15 0 4453 0 0
+-
+google-proxy-66-102-6-93.google.com
+0 4 2 10838 2 1539010910
+/
+199.116.173.196
+0 2 2 25677 1 1539094485
+/
+msnbot-157-55-39-17.search.msn.com
+0 2 0 590 0 0
+-
+163-16-137-186.fibertel.com.ar
+0 2 1 5240 1 1539975814
+/neurofi.htm
+msnbot-157-55-39-57.search.msn.com
+0 1 0 295 0 0
+-
+31.13.127.3
+0 1 1 32793 0 0
+-
+155.red.100.151.91.procono.es
+0 2 1 20671 1 1538910791
+/disc.htm
+31.13.127.4
+0 1 0 302 0 0
+-
+ip95.ip-54-36-148.eu
+0 1 1 18048 1 1539892965
+/cdba96.htm
+msnbot-157-55-39-97.search.msn.com
+0 1 1 35840 0 0
+-
+181.67.168.38
+0 1 1 3538 0 0
+-
+ol2-3.fibertel.com.ar
+0 2 1 5240 1 1538440484
+/neurofi.htm
+199.red-88-3-213.staticip.rima-tde.net
+0 3 1 20671 2 1539514148
+/disc.htm
+191-125-53-11.bam.movistar.cl
+0 1 1 3538 0 0
+-
+dsl-187-135-150-173-dyn.prod-infinitum.com.mx
+0 1 0 296 0 0
+-
+58-198-177-186.interbourg.com.ar.198.177.186.in-addr.arpa
+0 2 1 5240 1 1539717047
+/neurofi.htm
+static.88-198-90-9.clients.your-server.de
+0 1 1 169447 1 1540077286
+/segpar.htm
+host191.190-224-56.telecom.net.ar
+0 16 8 41920 8 1539894807
+/neurofi.htm
+ec2-54-224-150-24.compute-1.amazonaws.com
+0 6 5 166624 2 1539352711
+/esqgral.htm
+kmtd.jp
+0 4 0 1225 0 0
+-
+customer-201-141-44-124.cablevision.net.mx
+0 3 1 17692 1 1540116705
+/laplat97.htm
+herbi.klfree.cz
+0 8 8 42416 2 1540065342
+/
+host-186-101-236-121.netlife.ec
+0 3 1 20967 1 1539753413
+/disc.htm
+178-137-93-108.broadband.kyivstar.net
+0 10 0 2945 0 0
+-
+msnbot-157-55-39-109.search.msn.com
+0 1 0 0 1 1539094343
+/utn2003.htm
+static.206.162.76.144.clients.your-server.de
+0 1 1 25217 1 1539382389
+/curri.htm
+46.235.158.196
+0 2 2 25677 1 1538468186
+/
+host106.181-94-19.telecom.net.ar
+0 4 1 23860 1 1538470342
+/crit.htm
+msnbot-157-55-39-189.search.msn.com
+0 2 2 183453 2 1538363023
+/spnprog.htm
+181.49.105.132
+0 2 1 39224 1 1539367647
+/neuroep.htm
+220.243.136.43
+0 2 2 78758 1 1539511204
+/phroni1.htm
+dynamic-ip-1814994176.cable.net.co
+0 2 1 39224 1 1538429463
+/neuroep.htm
+msnbot-157-55-39-35.search.msn.com
+0 2 0 594 0 0
+-
+customer-187-210-189-229.uninet-ide.com.mx
+0 1 1 20375 1 1539000448
+/disc.htm
+2.152.145.127.dyn.user.ono.com
+0 3 2 41046 1 1539714498
+/disc.htm
+customer-gdl-192-33.megared.net.mx
+0 2 1 20671 1 1539026378
+/disc.htm
+186-185-180-99.genericrev.telcel.net.ve
+0 3 1 39520 1 1539138653
+/neuroep.htm
+53.71.116.91.unassigned.reverse-mundo-r.com
+0 33 3 24168 1 1539370056
+/neurofi.htm
+msnbot-157-55-39-198.search.msn.com
+0 9 6 134589 2 1538946329
+/disc.htm
+28-66-168-181.fibertel.com.ar
+0 473 43 339055 0 0
+-
+crawl-66-249-64-129.googlebot.com
+0 1 0 299 0 0
+-
+static-232-58-224-77.ipcom.comunitel.net
+0 2 1 20671 1 1539100988
+/disc.htm
+47.93.216.46
+0 1 0 291 1 1538926923
+-
+customer-187-217-195-225.uninet-ide.com.mx
+0 1 1 4944 1 1539194719
+/neurofi.htm
+ns311112.ip-188-165-197.eu
+0 2 0 592 0 0
+-
+220.243.136.108
+0 1 1 517536 0 0
+-
+dsl-189-148-91-37-dyn.prod-infinitum.com.mx
+0 1 1 3538 0 0
+-
+26.red-176-83-33.dynamicip.rima-tde.net
+0 6 1 6500 1 1539249283
+/neurofi.htm
+11.red-83-40-79.dynamicip.rima-tde.net
+0 4 2 46536 2 1538543546
+/crit.htm
+8.37.225.48
+0 1 1 20375 1 1539019723
+/disc.htm
+220.243.136.64
+0 2 1 36139 1 1539511201
+-
+ec2-52-83-191-29.cn-northwest-1.compute.amazonaws.com.cn
+0 1 1 24909 0 0
+-
+93-41-39-75.ip79.fastwebnet.it
+0 1 1 3538 0 0
+-
+220.243.136.66
+0 5 5 18750791 1 1539819909
+/utnmetodologia.htm
+190.236.204.165
+0 2 1 20671 1 1539639915
+/disc.htm
+msnbot-157-55-39-13.search.msn.com
+0 3 0 893 0 0
+-
+213.149.230.169
+0 6 5 92645 1 1538538056
+/extend1.htm
+crawl16.bl.semrush.com
+0 1 0 295 0 0
+-
+host-138.personal.com.py
+0 4 3 43335 1 1539251880
+/
+msnbot-157-55-39-9.search.msn.com
+0 2 0 590 0 0
+-
+rate-limited-proxy-66-249-89-55.google.com
+0 1 1 4944 1 1538379056
+/neurofi.htm
+ns312151.ip-188-165-209.eu
+0 4 0 1228 0 0
+-
+mansfield.didici.be
+0 7 5 185284 1 1539388790
+/utn.htm
+msnbot-157-55-39-176.search.msn.com
+0 11 8 288043 7 1538710620
+/metafisica2000.htm
+220.243.136.78
+0 1 1 19641 1 1539706366
+/naturep.htm
+186.118.25.195
+0 1 1 3538 0 0
+-
+ec2-18-196-18-95.eu-central-1.compute.amazonaws.com
+0 1 1 1612 1 1538470915
+/spn.htm
+153.red.82.37.46.procono.es
+0 1 1 20375 1 1539953014
+/disc.htm
+msnbot-40-77-167-66.search.msn.com
+0 10 7 230446 6 1539967422
+/espana95.htm
+static.213-239-216-194.clients.your-server.de
+0 2 1 5601 1 1539126294
+/
+181.64.36.99
+0 2 1 20671 1 1538742976
+/disc.htm
+93-158-161-162.spider.yandex.com
+0 69 32 208966 21 1539939217
+/
+165-178-191-190.cab.prima.net.ar
+0 11 1 7885 0 0
+-
+220.243.136.129
+0 2 2 179666 1 1539819909
+/utn2003.htm
+ns377114.ip-188-165-254.eu
+0 2 0 592 0 0
+-
+msnbot-157-55-39-62.search.msn.com
+0 1 1 18048 1 1539158591
+/cdba96.htm
+crawl25.bl.semrush.com
+0 1 0 295 0 0
+-
+109-247-188-190.cab.prima.net.ar
+0 2 1 25513 1 1538517525
+/curri.htm
+220.243.136.80
+0 2 2 18261337 0 0
+-
+48-70-191-190.cab.prima.net.ar
+0 22 2 15770 0 0
+-
+186.141.199.139
+0 12 11 87141 1 1539719569
+/md.htm
+185.186.188.89
+0 2 1 20671 1 1540021914
+/disc.htm
+baiduspider-180-76-15-147.crawl.baidu.com
+0 1 1 5664 1 1539657269
+/links.htm
+cpe-181-47-230-34.telecentro-reversos.com.ar
+0 4 2 10480 2 1539989710
+/neurofi.htm
+cable190-249-48-50.epm.net.co
+0 1 0 296 0 0
+-
+190.112.223.130
+0 2 0 590 0 0
+-
+ns500894.ip-192-99-1.net
+0 4 0 1236 0 0
+-
+190.112.223.131
+0 1 0 295 0 0
+-
+190.112.223.132
+0 1 0 295 0 0
+-
+msnbot-157-55-39-255.search.msn.com
+0 10 10 134390 7 1539549630
+/docs.htm
+190.112.223.133
+0 1 0 295 0 0
+-
+181.214.186.203
+0 1 1 5302 1 1539820725
+/
+37-115-191-67.broadband.kyivstar.net
+0 1 0 293 0 0
+-
+220.243.136.143
+0 1 1 35840 0 0
+-
+220.243.135.108
+0 1 1 169447 1 1539511201
+/segpar.htm
+google-proxy-64-233-172-152.google.com
+0 9 5 103059 5 1539710118
+/disc.htm
+190.131.220.29
+0 2 1 5240 1 1539711983
+/neurofi.htm
+dsl-187-150-79-14-dyn.prod-infinitum.com.mx
+0 2 1 20671 1 1538512309
+/disc.htm
+37.29.135.26
+0 2 1 5240 1 1538814072
+/neurofi.htm
+dinamic-ba-res-191-88-212-175.tigoune.com.co
+0 2 1 5240 1 1539728185
+/neurofi.htm
+190-51-44-213.speedy.com.ar
+0 2 1 5240 1 1539714106
+/neurofi.htm
+customer-187-237-252-115.uninet-ide.com.mx
+0 2 1 20671 1 1538924486
+/disc.htm
+static.207.94.9.5.clients.your-server.de
+0 1 1 5664 1 1540046504
+/links.htm
+google-proxy-66-249-88-90.google.com
+0 2 2 37737 1 1538518403
+/neurofi.htm
+ip114.ip-54-36-148.eu
+0 1 1 173385 0 0
+-
+google-proxy-66-249-84-122.google.com
+0 1 1 20375 1 1539170725
+/disc.htm
+ip18.ip-54-36-148.eu
+0 1 1 19641 1 1539008275
+/naturep.htm
+66.220.149.19
+0 3 2 38391 1 1538634269
+/
+hn.kd.ny.adsl
+0 20 18 96034 9 1540144612
+/
+triopikeur.compilatio.net
+0 1 1 4944 1 1539585416
+/neurofi.htm
+138.197.96.93
+0 34 32 1343709 1 1539398656
+/metafisica2000.htm
+220.243.136.164
+0 1 0 307 0 0
+-
+169.red-83-51-19.dynamicip.rima-tde.net
+0 1 1 3538 0 0
+-
+220.243.136.168
+0 1 1 4944 1 1539134934
+/neurofi.htm
+220.243.135.127
+0 2 2 157320 2 1539706367
+/
+220.243.135.129
+0 3 3 41210 1 1539819909
+/cdba93.htm
+66.220.149.27
+0 1 0 302 0 0
+-
+crawl21.bl.semrush.com
+0 2 2 44230 2 1540027574
+/neuroep.htm
+google-proxy-66-249-85-18.google.com
+0 14 7 113035 5 1539556151
+/disc.htm
+ec2-18-206-40-217.compute-1.amazonaws.com
+0 11 11 227437 1 1538480968
+/curri.htm
+ip-244-73.tricom.net
+0 2 1 20671 1 1539732786
+/disc.htm
+220.243.136.171
+0 1 0 307 0 0
+-
+google-proxy-66-249-83-54.google.com
+0 2 1 17390 1 1539981879
+/laplat97.htm
+186.143.137.59
+0 11 1 7885 0 0
+-
+220.243.135.137
+0 2 2 2882 1 1539134931
+/reflex.htm
+baiduspider-180-76-15-18.crawl.baidu.com
+0 1 1 5664 1 1539785143
+/links.htm
+189.221.45.175.cable.dyn.cableonline.com.mx
+0 2 1 20671 1 1539912658
+/disc.htm
+216.244.66.195
+0 30 15 577289 15 1540114652
+/
+17-70-191-190.cab.prima.net.ar
+0 11 10 187866 3 1539723472
+/
+dynamic-186-155-115-97.dynamic.etb.net.co
+0 3 2 41046 2 1539640835
+/disc.htm
+msnbot-207-46-13-196.search.msn.com
+0 3 3 422012 2 1539135594
+/epistpsico.htm
+220.243.135.141
+0 1 1 37888 0 0
+-
+msnbot-157-55-39-150.search.msn.com
+0 1 1 4944 1 1539308442
+/neurofi.htm
+220.243.136.3
+0 1 1 17094 1 1539819909
+/laplat97.htm
+msnbot-40-77-167-40.search.msn.com
+0 2 0 594 0 0
+-
+msnbot-40-77-167-80.search.msn.com
+0 2 2 308488 2 1538950102
+/curri.htm
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 6 3 16794 3 1539665080
+/
+ns310333.ip-188-165-192.eu
+0 11 1 8244 1 1538965625
+-
+customer-189-216-24-187.cablevision.net.mx
+0 2 1 20671 1 1539311831
+/disc.htm
+cpe-181-46-119-31.telecentro-reversos.com.ar
+0 2 1 5240 1 1539985827
+/neurofi.htm
+197.136.uio.satnet.net
+0 2 1 5240 1 1538737899
+/neurofi.htm
+msnbot-207-46-13-165.search.msn.com
+0 2 2 51922 2 1538904709
+/links.htm
+220.243.136.192
+0 1 0 298 1 1539819909
+-
+234-108-30-181.fibertel.com.ar
+0 14 11 136065 3 1539977017
+/reflex.htm
+dynamic-ip-1868632243.cable.net.co
+0 2 1 5240 1 1539725856
+/neurofi.htm
+ec2-54-198-15-20.compute-1.amazonaws.com
+0 3 2 52105 2 1539317139
+/spnprog.htm
+psicol-155-23.uab.es
+0 3 1 17692 1 1539754898
+/laplat97.htm
+google-proxy-66-249-93-210.google.com
+0 3 1 20967 1 1539503221
+/disc.htm
+static.197.87.63.178.clients.your-server.de
+0 8 7 495765 1 1539157852
+/utnmetodologia.htm
+178-154-244-142.spider.yandex.com
+0 2 1 5597 1 1539257367
+/
+ip161.ip-54-36-148.eu
+0 1 1 5302 1 1539409115
+/
+msnbot-207-46-13-94.search.msn.com
+0 1 1 37888 0 0
+-
+167.0.67.94
+0 1 1 3538 0 0
+-
+139.199.37.92
+0 4 0 1216 0 0
+-
+47.91.158.217
+0 2 0 604 1 1538861414
+-
+220.243.135.171
+0 4 3 79211 1 1539511202
+/crit.htm
+201-213-99-128.net.prima.net.ar
+0 2 1 39224 1 1538932711
+/neuroep.htm
+114-85-188-190.cab.prima.net.ar
+0 1025 150 1089948 1 1540052465
+/md.htm
+crawl-66-249-64-216.googlebot.com
+0 24 13 503390 18 1539586970
+/laplat97.htm
+220.243.135.174
+0 1 0 298 1 1539511205
+-
+crawl6.bl.semrush.com
+0 2 1 58678 1 1539949873
+/phroni1.htm
+msnbot-207-46-13-63.search.msn.com
+0 2 2 75477 2 1539357134
+/phroni1.htm
+crawl-66-249-70-24.googlebot.com
+0 1 0 295 0 0
+-
+www.whois.sc
+0 2 1 5601 1 1538785114
+/
+static.206.67.4.46.clients.your-server.de
+0 2 1 5597 1 1539040533
+/
+msnbot-207-46-13-112.search.msn.com
+0 9 9 971647 4 1538942952
+/joinv96.htm
+msnbot-207-46-13-152.search.msn.com
+0 1 1 1478 1 1538485766
+/md.htm
+dsl-189-243-50-223-dyn.prod-infinitum.com.mx
+0 3 2 38391 1 1538450373
+/
+77.81.178.67.banat-net.ro
+0 4 0 1225 0 0
+-
+ip56.ip-54-36-149.eu
+0 1 1 5302 1 1539998248
+/
+external-05-prod.plob.cz
+0 1 1 5302 1 1540066273
+/
+36-139-191-190.cab.prima.net.ar
+0 16 15 714340 2 1539780286
+/epistpsico.htm
+181.67.161.76
+0 2 1 20671 1 1538650426
+/disc.htm
+163.10.111.65
+0 10 9 80444 1 1539344664
+/docs.htm
+181.65.243.26
+0 2 1 39224 1 1538519075
+/neuroep.htm
+static.249.60.4.46.clients.your-server.de
+0 4 2 52150 2 1539647602
+/
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 12 6 33588 6 1540148964
+/
+220.243.135.190
+0 1 1 21405 1 1539706367
+/esqgral.htm
+static.189.34.63.178.clients.your-server.de
+0 2 1 283570 1 1539540301
+/utnmetodologia.htm
+220.243.135.192
+0 1 1 20375 1 1539819909
+/disc.htm
+186.141.202.147
+0 1 1 3538 0 0
+-
+dsl-189-161-237-199-dyn.prod-infinitum.com.mx
+0 2 1 39224 1 1539972525
+/neuroep.htm
+ec2-54-224-56-126.compute-1.amazonaws.com
+0 15 14 402889 1 1540077123
+/
+ec2-35-158-96-234.eu-central-1.compute.amazonaws.com
+0 2 2 27959 2 1538534061
+/curri.htm
+msnbot-207-46-13-41.search.msn.com
+0 5 5 503968 3 1539643118
+/cdba93.htm
+185.6.8.7
+0 33 32 1343410 1 1538562604
+/segpar.htm
+207.99.15.82
+0 18 18 333342 8 1540065518
+/neurofi.htm
+server7.con-imedia.net
+0 1 0 291 1 1538770212
+-
+msnbot-207-46-13-3.search.msn.com
+0 1 1 22972 1 1538781316
+/crit.htm
+msnbot-40-77-167-113.search.msn.com
+0 1 1 18048 1 1539830173
+/cdba96.htm
+195.170.18.95.dynamic.jazztel.es
+0 1 1 3538 0 0
+-
+customer-pue-239-29.megared.net.mx
+0 2 1 20671 1 1539617389
+/disc.htm
+150.214.94.219
+0 2 1 20671 1 1538468185
+/disc.htm
+84.red-185-91-193.telecablesantapola.es
+0 2 1 20671 1 1538661847
+/disc.htm
+crawl-66-249-64-54.googlebot.com
+0 16 7 158758 10 1540128594
+/
+host252.190-136-97.telecom.net.ar
+0 2 1 20671 1 1539703058
+/disc.htm
+118.126.111.136
+0 2 0 605 1 1539859812
+-
+lpz-181-188-177-00160.tigo.bo
+0 2 1 5240 1 1538584467
+/neurofi.htm
+fixed-138-186-30-148.totalplay.net
+0 2 1 20671 1 1539299685
+/disc.htm
+static.243.140.130.94.clients.your-server.de
+0 2 2 10604 2 1539860599
+/
+crawl-66-249-64-152.googlebot.com
+0 3 3 39132 3 1539134046
+/laplat97.htm
+184.174.39.150.rdns.colocationamerica.com
+0 1 1 5302 1 1539213692
+/
+host163-10-31-250.psico.unlp.edu.ar
+0 66 6 47310 0 0
+-
+186.141.201.121
+0 11 1 7885 0 0
+-
+msnbot-40-77-167-69.search.msn.com
+0 1 1 38928 1 1539578518
+/neuroep.htm
+msnbot-157-55-39-65.search.msn.com
+0 14 12 321119 10 1540021744
+/spnprog.htm
+3.101.221.87.dynamic.jazztel.es
+0 1 1 20375 1 1539179553
+/disc.htm
+166.red-95-122-78.staticip.rima-tde.net
+0 33 3 24168 3 1540127131
+/neurofi.htm
+msnbot-157-55-39-209.search.msn.com
+0 1 1 169447 1 1538841450
+/segpar.htm
+195.57.144.135
+0 1 1 417792 0 0
+-
+pool-108-7-196-171.bstnma.fios.verizon.net
+0 42 6 771768 3 1539108802
+/metafisica2000.htm
+ns314399.ip-37-187-26.eu
+0 1 1 5302 1 1539181757
+/
+static-ip-1868548138.cable.net.co
+0 2 1 5240 1 1539763275
+/neurofi.htm
+23.229.105.162
+0 11 11 227437 1 1540084663
+/curri.htm
+static.30.156.9.5.clients.your-server.de
+0 4 3 28023 1 1539194234
+/utn.htm
+80.248.227.208
+0 1 1 5302 1 1538709790
+/
+185.197.247.43
+0 2 1 20671 1 1539667942
+/disc.htm
+static.153.14.76.144.clients.your-server.de
+0 2 1 5601 1 1538530747
+/
+msnbot-40-77-167-38.search.msn.com
+0 3 2 29919 1 1538410954
+/disc.htm
+39.104.225.36
+0 1 0 299 0 0
+-
+4.124.116.91.unassigned.reverse-mundo-r.com
+0 8 1 7138 1 1539763832
+/neurofi.htm
+5.188.210.7
+0 4 4 22656 4 1539654144
+/links.htm
+39.105.27.78
+0 2 0 605 1 1539808059
+-
+118.159.53.179.d.dyn.claro.net.do
+0 2 1 20671 1 1540135437
+/disc.htm
+45.189-202-193.bestel.com.mx
+0 3 0 917 1 1538894968
+-
+118.24.97.45
+0 2 0 604 1 1538985947
+-
+msnbot-40-77-167-180.search.msn.com
+0 7 7 449405 4 1539104583
+/
+ip42.192.74.176.tralex.se
+0 33 32 1343410 1 1539896535
+/segpar.htm
+80.red-176-83-226.dynamicip.rima-tde.net
+0 1 1 4944 1 1540044039
+/neurofi.htm
+crawl-66-249-64-3.googlebot.com
+0 4 1 6242 1 1539799818
+/
+pc-134-123-162-190.cm.vtr.net
+0 1 1 3538 0 0
+-
+google-proxy-66-102-6-92.google.com
+0 4 4 66069 4 1539026577
+/disc.htm
+107.72.164.20
+0 1 1 20375 1 1538493111
+/disc.htm
+39.107.90.7
+0 2 0 605 1 1539802498
+-
+static.167.20.216.95.clients.your-server.de
+0 4 2 26271 1 1539990704
+/
+baiduspider-180-76-15-139.crawl.baidu.com
+0 2 1 5601 1 1539571617
+/
+adsl-9-103.tricom.net
+0 2 1 20671 1 1539861356
+/disc.htm
+dynamic-ip-18684179122.cable.net.co
+0 2 1 20671 1 1539267884
+/disc.htm
+62-103-170-181.fibertel.com.ar
+0 1 1 4944 1 1539893659
+/neurofi.htm
+a05-09-04.opera-mini.net
+0 2 1 20671 1 1539119619
+/disc.htm
+ec2-54-193-192-167.us-west-1.compute.amazonaws.com
+0 2 1 5597 1 1538473672
+/
+13.66.139.0
+0 1 0 0 1 1539717974
+/reflex.htm
+13.66.139.1
+0 1 0 295 0 0
+-
+ec2-54-186-124-182.us-west-2.compute.amazonaws.com
+0 1 1 5302 1 1538593024
+/
+209.17.97.10
+0 1 1 5302 1 1539020688
+/
+google-proxy-66-249-88-86.google.com
+0 5 2 10776 2 1538608296
+/neurofi.htm
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl24.bl.semrush.com
+0 1 0 295 0 0
+-
+crawl-66-249-64-58.googlebot.com
+0 2 1 283271 2 1540132090
+/utnmetodologia.htm
+crawl20.bl.semrush.com
+0 1 1 35744 1 1540152563
+/modula02.htm
+23.101.169.3
+0 1 1 20375 1 1540081974
+/disc.htm
+google-proxy-66-249-85-17.google.com
+0 1 0 296 0 0
+-
+183.60.83.110.broad.fz.fj.dynamic.163data.com.cn
+0 1 0 0 0 0
+-
+tdev232-189.codetel.net.do
+0 2 1 20671 1 1540116465
+/disc.htm
+crawl18.bl.semrush.com
+0 1 0 295 0 0
+-
+msnbot-40-77-167-15.search.msn.com
+0 1 1 152018 1 1540117354
+/utn2003.htm
+220.243.135.216
+0 1 1 5302 1 1540114825
+/
+host67.181-110-17.telecom.net.ar
+0 2 1 5240 1 1540148957
+/neurofi.htm
+google-proxy-66-249-88-63.google.com
+0 1 0 296 0 0
+-
+187-177-43-52.dynamic.axtel.net
+0 2 1 5240 1 1540141943
+/neurofi.htm
+msnbot-40-77-167-151.search.msn.com
+0 4 1 20969 2 1540151094
+/disc.htm
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 1 1 5302 1 1540094282
+/
+google-proxy-66-249-85-19.google.com
+0 1 0 296 0 0
+-
+crawl-66-249-64-56.googlebot.com
+0 1 0 295 0 0
+-
+msnbot-40-77-167-54.search.msn.com
+0 1 1 22972 1 1540105697
+/crit.htm
+crawl13.bl.semrush.com
+0 1 1 25456 1 1540120739
+/infoco96.htm
+msnbot-157-55-39-191.search.msn.com
+0 2 2 443248 1 1540104121
+/infoco96.htm
+google-proxy-66-249-88-34.google.com
+0 1 1 17094 1 1540132975
+/laplat97.htm
+214.red-83-41-1.dynamicip.rima-tde.net
+0 2 1 20671 1 1540122487
+/disc.htm
+msnbot-40-77-167-145.search.msn.com
+0 4 3 35901 2 1540125142
+/Gno99.htm
+customer-201-141-44-124.cablevision.net.mx
+0 3 1 17692 1 1540116705
+/laplat97.htm
+msnbot-157-55-39-13.search.msn.com
+0 3 0 893 0 0
+-
+hn.kd.ny.adsl
+0 2 2 10604 1 1540144612
+/
+216.244.66.195
+0 2 1 5601 1 1540114652
+/
+114-85-188-190.cab.prima.net.ar
+0 88 8 63080 0 0
+-
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 2 1 5598 1 1540148964
+/
+crawl-66-249-64-54.googlebot.com
+0 2 1 5302 2 1540128594
+/
+166.red-95-122-78.staticip.rima-tde.net
+0 11 1 8056 1 1540127131
+/neurofi.htm
+23.229.105.162
+0 11 11 227437 1 1540084663
+/curri.htm
+118.159.53.179.d.dyn.claro.net.do
+0 2 1 20671 1 1540135437
+/disc.htm
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.neurofilosofia.com.ar/epistpsico.htm
+0 1
+https://duckduckgo.com/
+0 9
+http://neurofilosofia.com.ar/
+0 31
+- (Direct Request)
+0 3943
+http://neurofilosofia.com.ar/license.php
+0 5
+http://neurofilosofia.com.ar/laplat97.htm
+0 9
+http://www.neurofilosofia.com.ar/modules/columnadverts/uploadimage.php
+0 1
+http://neurofilosofia.com.ar/modules/simpleslideshow/uploadimage.php
+0 1
+http://neurofilosofia.com.ar/extend1.htm
+0 8
+https://www.google.com.py/
+0 1
+http://neurofilosofia.com.ar/cdba93.htm
+0 4
+http://neurofilosofia.com.ar/reflex.htm
+0 2
+http://neurofilosofia.com.ar/paneldecontrol/principal.php
+0 23
+http://www.google.com/search
+0 1
+http://www.neurofilosofia.com.ar/
+0 28
+http://neurofilosofia.com.ar/favicon.ico
+0 9
+http://www.neurofilosofia.com.ar/reflex.htm
+0 1
+https://www.facebook.com/
+0 1
+http://www.google.com.mx/
+0 1
+http://neurofilosofia.com.ar/spn.htm
+0 4
+http://neurofilosofia.com.ar/index.htm
+0 50
+https://www.google.com.do/
+0 4
+http://neurofilosofia.com.ar/wp-login.php
+0 2
+http://www.bing.com/search
+0 4
+http://www.neurofilosofia.com.ar/wp-content/themes/qualifire/style.css
+0 1
+http://neurofilosofia.com.ar/utn2003.htm
+0 1
+http://neurofilosofia.com.ar
+0 25
+http://neurofilosofia.com.ar/disc.htm
+0 128
+android-app://com.google.android.googlequicksearchbox
+0 1
+http://neurofilosofia.com.ar/neurofi.htm
+0 88
+http://neurofilosofia.com.ar/modules/homepageadvertise/uploadimage.php
+0 1
+http://neurofilosofia.com.ar/modules/columnadverts/uploadimage.php
+0 1
+https://www.google.ca/
+0 1
+https://www.google.com.uy/
+0 4
+http://www.neurofilosofia.com.ar/md.htm
+0 6
+http://neurofilosofia.com.ar/paneldecontrol/base.php
+0 3
+http://neurofilosofia.com.ar/paneldecontrol/
+0 10
+http://www.neurofilosofia.com.ar/modules/homepageadvertise/uploadimage.php
+0 1
+http://neurofilosofia.com.ar/naturep.htm
+0 1
+https://www.google.it/
+0 1
+http://neurofilosofia.com.ar/segpar.htm
+0 1
+https://www.google.com/
+0 37
+http://neurofilosofia.com.ar/docs.htm
+0 2
+https://www.google.com.ec/
+0 5
+https://www.google.cl/
+0 2
+http://neurofilosofia.com.ar/crit.htm
+0 8
+http://pizza-tycoon.com/
+0 3
+http://www.neurofilosofia.com.ar/spn.htm
+0 1
+http://neurofilosofia.com.ar/metafisica2000.htm
+0 2
+https://www.google.co.ve/
+0 2
+https://www.google.es/
+0 34
+http://neurofilosofia.com.ar/css_.php
+0 5
+https://www.google.com.mx/
+0 49
+http://neurofilosofia.com.ar/wp-content/themes/qualifire/style.css
+0 1
+http://neurofilosofia.com.ar/links.htm
+0 4
+http://neurofilosofia.com.ar/paneldecontrol/cuentas_ftp.php
+0 15
+https://www.google.pl/
+0 2
+https://cn.bing.com/
+0 1
+https://www.google.com.pe/
+0 6
+https://www.google.com.gt/
+0 1
+https://www.google.com.co/
+0 32
+https://www.browse-qle.com/
+0 1
+http://www.neurofilosofia.com.ar/index.htm
+0 1
+https://www.ecosia.org/
+0 1
+http://www.neurofilosofia.com.ar/docs.htm
+0 14
+http://www.google.com/
+0 48
+http://neurofilosofia.com.ar/neuroep.htm
+0 13
+http://neurofilosofia.com.ar/curri.htm
+0 6
+http://www.neurofilosofia.com.ar/robots.txt
+0 2
+http://neurofilosofia.com.ar/md.htm
+0 1
+https://www.google.com.ar/
+0 30
+http://neurofilosofia.com.ar/paneldecontrol/configuracion.php
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 43
+Mozilla/5.0 (Linux; Android 5.1.1; ASUS_X00BD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 6
+Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Sa
+0 2
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 9
+Python-urllib/2.6
+0 3
+Python-urllib/2.7
+0 23
+Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Saf
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0;  Trident/5.0)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36 OPR/44.0.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 1
+Mozilla/5.0 (Linux; Android 6.0; CAM-L21 Build/HUAWEICAM-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chr
+0 2
+Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.15) Gecko/2009102815 Ubuntu/9.04 (jaunty) Firefox/3.0.15
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+0 9
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 92
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.8 (KHTML, like Gecko) Chrome/2.0.177.0 Safari/530.8
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
+0 1
+Googlebot-Image/1.0
+0 4
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900W8 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; LG-M700 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:53.0) Gecko/20100101 Firefox/53.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 4
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET C
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+0 2
+Mozilla/5.0 (iPad; CPU OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.
+0 56
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 14
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.54 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 7.0; PRA-LX1 Build/HUAWEIPRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 3
+Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-2-5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.
+0 2
+MobileSafari/602.1 CFNetwork/811.5.4 Darwin/16.7.0
+0 290
+Opera/9.80 (Android; Opera Mini/35.0.2254/117.41; U; es) Presto/2.12.423 Version/12.16
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile S
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 57
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 1
+Safari/10603.3.8 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+0 42
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile S
+0 2
+Mozilla/5.0 (Linux; Android 7.0; 9008J Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safar
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Sa
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 54
+Mozilla/5.0 (Linux; Android 6.0.1; KIW-L21 Build/HONORKIW-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mo
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20100101 Firefox/21.0
+0 32
+Mozilla/5.0 (Linux; Android 8.0.0; G3221 Build/48.1.A.2.50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.4) Gecko/20070515 Firefox/2.0.0.4
+0 1
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 1
+Mozilla/5.0 (Linux; Android 7.0; F3213 Build/36.1.A.1.86) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile 
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36; 360Spider
+0 20
+Mozilla/5.0 (Linux; Android 5.1; E5506 Build/29.1.A.0.101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile 
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 1
+CipaCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/neurofilosofia.com.ar)
+0 1
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 72
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+0 2
+Mozilla/5.0 (Linux; Android 6.0; BLL-L23 Build/HUAWEIBLL-L23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 5
+Mozilla/5.0 (Linux; U; Android 4.4.2; es-us; SM-G355M Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2651.68 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 54
+UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.1.0.1041 (SpeedMode; Proxy; Android 5.0.2; SM-G530H ) U2/1.0
+0 1
+Mozilla/5.0 (iPad; CPU OS 12_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/60
+0 49
+Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Saf
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/6.0; .NET4.0E; .NET4.0C; .NET CLR 3.5.30729; .NET CLR 2.0.5
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; SM-J600G Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.1.0; Nexus 6P Build/OPM7.181005.003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.10
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Bluboo Maya Max Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mo
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:21.0) Gecko/20130331 Firefox/21.0
+0 32
+Mozilla/5.0 (Linux; Android 6.0; LG-H542 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safa
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/603.3.8 (KHTML, like Gecko)
+0 4
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 C
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Sa
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; TRT-TL10 Build/HUAWEITRT-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile S
+0 2
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+0 2
+Mozilla/5.0 (iPad; CPU OS 11_2_6 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D100 Safari/604
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; Moto Z2 Play Build/OPSS27.76-12-25-7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3
+0 12
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 33
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 C
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J510FN Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 
+0 2
+Mozilla/5.0 (Linux; Android 5.1; C6740 Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safar
+0 4
+Mozilla/5.0 (Linux; Android 8.0.0; SM-A720F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 2
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 3
+fasthttp
+0 1
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L03 Build/HUAWEICUN-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; tracemyfile/1.0)
+0 7
+Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX1 Build/HUAWEIANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 4
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 3
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:4:\"\\0\\0\\0a\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandler
+0 1
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 15
+Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 60
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G925I Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.0 Mobile/14F89 Sa
+0 1
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 12
+Mozilla/5.0 (Linux; Android 7.1.1; Z835 Build/NMF26V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safar
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Mobile Saf
+0 76
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 12
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 54
+Mozilla/5.0 (Linux; Android 5.1.1; C6502 Build/10.7.A.0.222) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobi
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J710MN Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.91 Mobile 
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 6.0) Gecko/20091201 Firefox/3.5.6 GTB5
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 22
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0;  Trident/5.0)
+0 5
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi 5 Plus Build/OPM1.171019.019) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.349
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; Aquaris X Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 5
+Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G610M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile 
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 33
+Mozilla/5.0 (compatible; SemrushBot/2~bl; +http://www.semrush.com/bot.html)
+0 109
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+0 5
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 6.0; vo; rv:6.0a2) Gecko/20110623 Firefox/6.0a2
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 7
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 14
+python-requests/2.18.4
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 
+0 39
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 11
+Mozilla/5.0 (Linux; Android 8.1.0; Mi A1 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/10.0.649.0 Safari/534.17
+0 32
+Mozilla/5.0 (Linux; Android 7.1.1; Moto Z2 Play Build/NPSS26.118-19-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.34
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Sa
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A500FU Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile 
+0 2
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 25
+LightspeedSystemsCrawler Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531M Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile S
+0 2
+Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX3 Build/HUAWEIWAS-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile 
+0 6
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D331 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Sa
+0 4
+Mozilla/5.0 (X11; CrOS armv7l 10895.56.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.95 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.38 (KHTML, like Gecko) Version/10.0 Mobile/14A300 Sa
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D690 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (iPad; CPU OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/69.0.3497.105 Mobile/15E148 Safa
+0 1
+Mozilla/5.0 (Linux; Android 7.0; F3113 Build/33.3.A.1.97) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile S
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; M4 SS4453-R Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; http://spyonweb.com spyo
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531H Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile 
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-J701M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 6
+Mozilla/5.0 (Windows NT 6.1; rv:62.0) Gecko/20100101 Firefox/62.0
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+Mozilla/5.0 (Linux; Android 6.0; MotoG3 Build/MPIS24.65-33.1-2-10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94
+0 1
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI TAG-L13 Build/HUAWEITAG-L13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.
+0 2
+CCBot/2.0 (https://commoncrawl.org/faq/)
+0 45
+Mozilla/5.0 (Linux; Android 7.0; SM-J710MN Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 8
+MobileSafari/604.1 CFNetwork/974.2.1 Darwin/18.0.0
+0 1806
+Mozilla/5.0 (Linux; Android 7.0; SM-J710F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 4
+Mozilla/5.0 (Linux; Android 8.0.0; SM-A520F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; LG-K500 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile S
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 235
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX1 Build/HUAWEIFIG-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo K33b36 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mo
+0 3
+Mozilla/5.0 (Linux; Android 8.0.0; moto g(6) play Build/OPP27.91-87) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.
+0 1
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L23 Build/HuaweiALE-L23) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Sa
+0 29
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3251.0 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3497.81 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J510MN Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+0 7
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 18
+Mozilla/5.0 (compatible; tracemyfile/1.0; +bot@tracemyfile.com)
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 4
+Mozilla/5.0 (Linux; Android 7.0; 5011A Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safar
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G925I Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 3
+Mozilla/5.0 (Linux; Android 8.0.0; RNE-L03 Build/HUAWEIRNE-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 M
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Build/NMA26.42-157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100
+0 3
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; Blade L2 Plus Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mob
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 OPR/56.0.3051.3
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 30
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 5
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.91 Mobile S
+0 2
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/neurofilosofia.com.ar)
+0 66
+libwww-perl/6.05
+0 2
+libwww-perl/6.08
+0 2
+Mozilla/5.0 (compatible; spbot/5.0.3; +http://OpenLinkProfiler.org/bot )
+0 34
+Mozilla/5.0 (Linux; Android 7.0; LG-M250 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Saf
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 2
+Mozilla/5.0 (Linux; Android 7.0; SM-G570M Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 4
+Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Sa
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36 OPR/56.0.3
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Sa
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 18
+Mozilla/5.0 (Linux; Android 8.0.0; SHT-W09 Build/HUAWEISHT-W09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mo
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 15
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.1.2; View Prime Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobil
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+ia_archiver
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 30
+Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Plus Build/NPNS25.137-92-14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3
+0 2
+Mozilla/5.0 (Linux; Android 7.0; TRT-L53 Build/HUAWEITRT-L53) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2806.80 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX3 Build/HUAWEIANE-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 M
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 17
+WhatsApp/2.18.306 A
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Build/NMA26.42-157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 
+0 2
+$ua.tools.random()
+0 10
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 1
+Mozilla/5.0 (Linux; Android 7.1.1; Moto G Play Build/NPIS26.48-43-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) CriOS/69.0.3497.105 Mobile/15
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; HTC Desire 10 lifestyle Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0; MotoE2(4G-LTE) Build/MPI24.65-39-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.
+0 2
+Mozilla/5.0 (Linux; Android 7.0; VTR-L09 Build/HUAWEIVTR-L09) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mob
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 29
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1
+0 1
+Mozilla/5.0 (iPad; CPU OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 155
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Sa
+0 52
+Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+# End Of Table - agents
+# -search strings- 
+disciplinas filos®Æficas
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
